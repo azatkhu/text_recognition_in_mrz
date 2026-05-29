@@ -1,0 +1,38 @@
+[
+    {
+        "document_type": "P",
+        "country": "AUS",
+        "surname": "CZTZZEN",
+        "name": "ANE",
+        "passport_number": "RA0123456",
+        "nationality": "AUS",
+        "birth_date": "91-05-04",
+        "gender": "F",
+        "expiry_date": "32-08-01",
+        "personal_number": "99999000T"
+    },
+    {
+        "document_type": "P",
+        "country": "USA",
+        "surname": "OBAMA",
+        "name": "MICHELLE",
+        "passport_number": "910239248",
+        "nationality": "USA",
+        "birth_date": "64-01-17",
+        "gender": "F",
+        "expiry_date": "18-12-05",
+        "personal_number": "9007812001296"
+    },
+    {
+        "document_type": "P",
+        "country": "CAN",
+        "surname": "COLLEE",
+        "name": "JENNIFER",
+        "passport_number": "GK485392",
+        "nationality": "CAN",
+        "birth_date": "79-05-05",
+        "gender": "F",
+        "expiry_date": "24-05-25",
+        "personal_number": ""
+    }
+]
