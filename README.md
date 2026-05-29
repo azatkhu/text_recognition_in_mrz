@@ -1,0 +1,2 @@
+# text_recognition_in_mrz
+using_paddle_ocr_and_ultralytics
